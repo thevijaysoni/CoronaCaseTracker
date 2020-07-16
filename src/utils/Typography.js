@@ -1,0 +1,13 @@
+
+export const FONT_FAMILY_RIGHTEOUS_REGULAR = "Righteous-Regular"
+export const FONT_RALEWAY_REGULAR = "Raleway-Regular"
+export const FONT_RALEWAY_THIN = "Raleway-Thin"
+export const FONT_RALEWAY_SEMIBOLD = "Raleway-SemiBold"
+export const FONT_RALEWAY_MEDIUM = "Raleway-Medium"
+export const FONT_RALEWAY_LIGHT = "Raleway-Light"
+export const FONT_RALEWAY_EXTRALIGHT = "Raleway-ExtraLight"
+export const FONT_RALEWAY_EXTRABOLD = "Raleway-ExtraBold"
+export const FONT_RALEWAY_BOLD = "Raleway-Bold"
+export const FONT_RALEWAY_BLACK = "Raleway-Black"
+export const FONT_POPPINS_EXTRABOLD = "Poppins-ExtraBold"
+export const FONT_POPPINS_REGULAR = "Poppins-Regular"

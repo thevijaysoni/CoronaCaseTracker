@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- deny cleartext traffic for React Native packager ips in release -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">corona.lmao.ninja</domain>
+        <domain includeSubdomains="true">api.covid19india.org</domain>
+        <domain includeSubdomains="true">192.168.1.128</domain>
+        <domain includeSubdomains="true">192.168.1.193</domain>
+        <domain includeSubdomains="true">192.168.1.100</domain>
+        <domain includeSubdomains="true">192.168.1.101</domain>
+        <domain includeSubdomains="true">192.168.43.24</domain>
+        <domain includeSubdomains="true">192.168.43.166</domain>
+        <domain includeSubdomains="true">192.168.43.74</domain>
+        <domain includeSubdomains="true">192.168.43.174</domain>
+        <domain includeSubdomains="true">192.168.43.251</domain>
+    </domain-config>
+</network-security-config>

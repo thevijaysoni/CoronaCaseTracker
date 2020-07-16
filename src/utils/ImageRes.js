@@ -1,0 +1,17 @@
+export const IMG_SPLASH_LOGO = require('../../assets/images/splash_logo.png')
+
+export const IMG_TAB_WORLD_ACTIVE = require('../../assets/images/tab_world_active.png')
+export const IMG_TAB_WORLD_INACTIVE = require('../../assets/images/tab_world_inactive.png')
+export const IMG_TAB_COUNTRIES_ACTIVE = require('../../assets/images/tab_countries_active.png')
+export const IMG_TAB_COUNTRIES_INACTIVE = require('../../assets/images/tab_countries_inactive.png')
+export const IMG_TAB_INDIA_ACTIVE = require('../../assets/images/tab_india_active.png')
+export const IMG_TAB_INDIA_INACTIVE = require('../../assets/images/tab_india_inactive.png')
+export const IMG_TAB_PRECAUTION_ACTIVE = require('../../assets/images/tab_precaution_active.png')
+export const IMG_TAB_PRECAUTION_INACTIVE = require('../../assets/images/tab_precaution_inactive.png')
+export const IMG_TAB_UPDATES_ACTIVE = require('../../assets/images/tab_updates_active.png')
+export const IMG_TAB_UPDATES_INACTIVE = require('../../assets/images/tab_updates_inactive.png')
+
+export const IMG_RELOAD = require('../../assets/images/reload.png')
+export const IMG_BG2 = require('../../assets/images/bg2.jpg')
+export const IMG_DOWN_ARROW = require('../../assets/images/down-arrow.png')
+export const IMG_UP = require('../../assets/images/up.png')
